@@ -44,6 +44,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		024AAE151D9D1C26008D4E0A /* Pages */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Pages;
+			sourceTree = "<group>";
+		};
+		024AAE161D9D1C4F008D4E0A /* Common */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
 		18D2794B3C471D7E98F88641 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -74,6 +88,8 @@
 		D65417D11D9D145A006D47A2 /* QQ音乐 */ = {
 			isa = PBXGroup;
 			children = (
+				024AAE161D9D1C4F008D4E0A /* Common */,
+				024AAE151D9D1C26008D4E0A /* Pages */,
 				D65417D51D9D145A006D47A2 /* AppDelegate.h */,
 				D65417D61D9D145A006D47A2 /* AppDelegate.m */,
 				D65417D81D9D145A006D47A2 /* ViewController.h */,
